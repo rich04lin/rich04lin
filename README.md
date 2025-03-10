@@ -4,4 +4,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rich04lin/rich04lin/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rich04lin/rich04lin/output/github-contribution-grid-snake.svg">
 </picture>
-![profile-night-rainbow](profile-3d-contrib/profile-night-rainbow.svg)
