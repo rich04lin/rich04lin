@@ -22,4 +22,3 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
-          echo test, and deploy your project.
